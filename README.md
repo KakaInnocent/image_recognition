@@ -3,4 +3,5 @@ This directory is about image face recognition using `face_recognition` library 
 ## Necessary libraries
 `face_recognition`</br>
 `dlib`</br>
-It can be installed using `pip install face_recognition`
+It can be installed using `pip install face_recognition` </br>
+Works best on `Google colabolaratory`
